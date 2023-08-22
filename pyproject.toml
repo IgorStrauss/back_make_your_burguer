@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "make-your-burguer"
+version = "0.1.0"
+description = ""
+authors = ["IgorStrauss <engenheirostrauss2@gmail.com>"]
+readme = "README.md"
+packages = [{include = "make_your_burguer"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+djangorestframework = "^3.14.0"
+markdown = "^3.4.4"
+django-filter = "^23.2"
+psycopg2-binary = "^2.9.7"
+python-dotenv = "^1.0.0"
+django-cors-headers = "^4.2.0"
+autopep8 = "^2.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

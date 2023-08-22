@@ -1,0 +1,3 @@
+[submodule "front_myb"]
+	path = front_myb
+	url = https://github.com/IgorStrauss/frontend-repo.git
