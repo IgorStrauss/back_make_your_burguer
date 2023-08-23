@@ -56,9 +56,22 @@
     "cSpell.enabled": true,
     "python.formatting.provider": "none",
     "cSpell.words": [
+      "Adicionar",
       "Burguer",
+      "Burguers",
+      "Carnes",
+      "cliente",
       "corsheaders",
-      "Projeto"
+      "Criando",
+      "Listar",
+      "Opcionais",
+      "Opcional",
+      "Paes",
+      "produção",
+      "Projeto",
+      "Solicitado",
+      "tipo",
+      "viewsets"
     ],
     "python.linting.enabled": true
   }
