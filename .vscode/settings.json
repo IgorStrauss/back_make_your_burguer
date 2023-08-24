@@ -69,9 +69,11 @@
       "Paes",
       "produção",
       "Projeto",
+      "redoc",
       "Solicitado",
       "tipo",
-      "viewsets"
+      "viewsets",
+      "yasg"
     ],
     "python.linting.enabled": true
   }
